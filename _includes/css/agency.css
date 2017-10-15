@@ -362,7 +362,19 @@ section h3.section-subheading {
     margin: 0 0 15px;
 }
 
+#journal .journal-item {
+    right: 0;
+    margin: 0 0 15px;
+}
+
 #portfolio .portfolio-item .portfolio-link {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+#journal .journal-item .journal-link {
     display: block;
     position: relative;
     margin: 0 auto;
@@ -379,8 +391,23 @@ section h3.section-subheading {
     -moz-transition: all ease .5s;
     transition: all ease .5s;
 }
+#journal .journal-item .journal-link .journal-hover {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    background: rgba(254,209,54,.9);
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    transition: all ease .5s;
+}
+
+
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
+    opacity: 1;
+}
+#journal .journal-item .journal-link .journal-hover:hover {
     opacity: 1;
 }
 
@@ -394,8 +421,22 @@ section h3.section-subheading {
     font-size: 20px;
     color: #fff;
 }
+#journal .journal-item .journal-link .journal-hover .journal-hover-content {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: 20px;
+    margin-top: -12px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
+    margin-top: -12px;
+}
+#journal .journal-item .journal-link .journal-hover .journal-hover-content i {
     margin-top: -12px;
 }
 
@@ -403,8 +444,19 @@ section h3.section-subheading {
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
     margin: 0;
 }
+#journal .journal-item .journal-link .journal-hover .journal-hover-content h3,
+#journal .journal-item .journal-link .journal-hover .journal-hover-content h4 {
+    margin: 0;
+}
 
 #portfolio .portfolio-item .portfolio-caption {
+    margin: 0 auto;
+    padding: 25px;
+    max-width: 400px;
+    text-align: center;
+    background-color: #fff;
+}
+#journal .journal-item .journal-caption {
     margin: 0 auto;
     padding: 25px;
     max-width: 400px;
@@ -416,8 +468,18 @@ section h3.section-subheading {
     margin: 0;
     text-transform: none;
 }
-
+#journal .journal-item .journal-caption h4 {
+    margin: 0;
+    text-transform: none;
+}
 #portfolio .portfolio-item .portfolio-caption p {
+    margin: 0;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-style: italic;
+}
+
+#journal .journal-item .journal-caption p {
     margin: 0;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
@@ -427,9 +489,17 @@ section h3.section-subheading {
 #portfolio * {
     z-index: 2;
 }
+#journal * {
+    z-index: 2;
+}
 
 @media(min-width:767px) {
     #portfolio .portfolio-item {
+        margin: 0 0 30px;
+    }
+}
+@media(min-width:767px) {
+    #journal .journal-item {
         margin: 0 0 30px;
     }
 }
