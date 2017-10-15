@@ -3,7 +3,7 @@ layout: default
 modal-id: 0
 date: 2016-12-31
 img: angular-invasive-preview.png
-alt: 用中文寫札記
+alt: Writing in Chinese
 project-date: October 2017
 description: 
 感覺2016年是目前人生中過得最快的一年，應該是因為特別忙碌的關係，但是收穫好像也因此不少。
