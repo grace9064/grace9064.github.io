@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1001
+modal-id: 101
 date: 2016-12-31
 img: angular-invasive-preview.png
 alt: Writing in Chinese
