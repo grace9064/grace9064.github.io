@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 101
-date: 2017-10-15
+date: 2016-12-31
 img: angular-invasive-preview.png
 alt: Supervised Machine Learning
 project-date: October 2017
