@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 101
+date: 2017-01-06
+img: frm-preview.png
+alt: Supervised Machine Learning
+project-date: January 6, 2017
+description: 去年11月考的FRM (Financial Risk Manager, 金融風險管理) 第一階段在這週二終於放榜，很幸運地通過了。在考完試的當天，我跟同事都覺得考試很難以及準備地有點倉促，有種不祥的預感，當下彼此同意對於2017 年5月的第二階段(或重考第一階段)要在放榜之後馬上開始準備，於是這週二就報名第二階並且買好書了。<p>FRM是美國全球風險管理協會(Global Association of Risk Professionals, 簡稱GARP)所設立的國際專業證照，核心在於風險管理理論的實際運用。考試分成兩階段。<p>第一階段有四部分，著重在衡量金融風險的工具：量化分析(Quantitative Analysis), 風險管理基礎概念(Fundamental Risk Management Concepts), 金融市場及產品(Financial Markets and Products),評價及風險模型 (Valuation and Risk Models)。共100道單選題，需要在4個小時內完成。<p>第二階段，目前的了解是，著重在將第一階段所學做實際運用。共80道單選題，需要在4個小時內完成。分五部分：市場風險衡量及管理 (Market Risk Measurement and Management), 信用風險衡量及管理 (Credit Risk Measurement and Management), 營運及全面風險管理 (Operational and Integrated Risk Management),風險管理及投資管理 (Risk Management and Investment Management)，當今金融市場議題 (Current Issues in Financial Markets)。<p>考第一階段時使用Kaplan 和 Bionic Turtle 發行的輔助資料學習，前者念起來蠻流暢的而且更新快，後者更新似乎比較慢些，但是有添加一些官方教材沒有的資料，以及可以實際運用到工作上的試算表。在準備第一階的時侯有點後悔沒什麼使用到官方教材，覺得可能漏了一些東西。考第二階打算繼續使用這兩家以及好好善用官方教材。
+---
