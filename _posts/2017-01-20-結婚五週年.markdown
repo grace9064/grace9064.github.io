@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 104
+date: 2017-01-20
+img: 5anniversary.png
+alt: Supervised Machine Learning
+project-date: January 20, 2017
+description: 
+---
