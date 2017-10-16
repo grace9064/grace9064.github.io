@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 105
+date: 2017-02-02
+img: play.png
+alt: Supervised Machine Learning
+project-date: February 2, 2017
+description: 這週參加了托兒所辦的網路研討會，主題是從玩樂中學習。講者描述小孩們也許不自覺，但他們大部分從事的活動都是在玩樂，而每次玩樂都是一個學習的機會。我自己比較喜歡的解釋是：小孩們喜歡把所有活動都視為玩樂，因此變得比較有趣。那我從今以後也要把所有活動都視為玩樂。每次跟小孩們接觸的時候，總是有新的人生哲學體驗。<p>
+---
